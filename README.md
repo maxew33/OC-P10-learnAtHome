@@ -23,53 +23,73 @@ Définir les besoins pour une app de soutien scolaire
 ## Pages
 
 ### Connexion
+
 - Aperçu
+
 ![Aperçu Page de connexion format desktop](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/D-LoginPage.png)
 
 - Cas d'usage
+
 ![Cas d'usage Page de connexion](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/connexion.drawio.png)
 
 - User stories
+
 ![User stories Page de connexion](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/us-login.png)
 
 ### Dashboard
+
 - Aperçu
-![Aperçu Page de connexion format desktop](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/D-LoginPage.png)
+
+![Aperçu Page de connexion format desktop](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/D-dashboard.png)
 
 - Cas d'usage
+
 ![Cas d'usage Page de connexion](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/dashboard.drawio.png)
 
 - User stories
+
 ![User stories Page de connexion](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/us-dashboard.png)
 
 ### Gestionnaire de tâches
+
 - Aperçu
-![Aperçu Page de connexion format desktop](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/D-LoginPage.png)
+
+![Aperçu Page de connexion format desktop](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/D-todo.png)
 
 - Cas d'usage
+
 ![Cas d'usage Page de connexion](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/todolist.drawio.png)
 
 - User stories
+
 ![User stories Page de connexion](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/us-todo.png)
 
 ### Calendrier
+
 - Aperçu
-![Aperçu Page de connexion format desktop](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/D-LoginPage.png)
+
+![Aperçu Page de connexion format desktop](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/D-calendar.png)
 
 - Cas d'usage
+
 ![Cas d'usage Page de connexion](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/calendrier.drawio.png)
 
 - User stories
+
 ![User stories Page de connexion](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/us-calendar.png)
 
 ### Espace de discussion
+
 - Aperçu
-![Aperçu Page de connexion format desktop](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/D-LoginPage.png)
+
+![Aperçu Page de connexion format desktop](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/D-chat.png)
 
 - Cas d'usage
+
 ![Cas d'usage Page de connexion](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/chat.drawio.png)
 
 - User stories
+
 ![User stories Page de connexion](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/us-chat.png)
 
 ## Author
