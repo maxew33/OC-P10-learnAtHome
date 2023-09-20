@@ -1,16 +1,16 @@
 # Learn@Home
 ![Logo](https://github.com/maxew33/OC-P10-learnAtHome/blob/master/img/logo.png)
 
+## Objectif
+
+- Définir les besoins pour une app de soutien scolaire
+
 ## Compétences cibles
 
 - Identifier les besoins de l'application à partir d'un cahier des charges
 - Contribuer à un projet en utilisant une méthodologie agile
 - Modéliser une solution technique pour un client
 - Créer une maquette pour un client
-
-## Objectif
-
-Définir les besoins pour une app de soutien scolaire
 
 ## Maquettes
 
